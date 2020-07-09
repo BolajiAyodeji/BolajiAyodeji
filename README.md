@@ -2,7 +2,7 @@
 
 I'm a JAMstack Developer and Technical Writer who currently works in Developer Relations at [Hashnode](https://hashnode.com). I'm passionate about sharing knowledge, documentation, web engineering, JAMstack, communities, and sustaining FOSS.
 
-I create technical content on my [Blog](/) && [YouTube](https://www.youtube.com/c/bolajiayodeji), [speak](https://bolajiayodeji.com/talks) at some conferences/meetups and organize several events for my [local](https://facebook.com/groups/devclokoja/) && global community.
+I create technical content on my [Blog](/) && [YouTube](https://www.youtube.com/c/bolajiayodeji), [speak](https://bolajiayodeji.com/talks) at some conferences/meetups and build technical communities.
 
 - 💬 Ask me about: Documentation, Web Engineering, JAMstack, Communities, and FOSS.
 - 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo)
