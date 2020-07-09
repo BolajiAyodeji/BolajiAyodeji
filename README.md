@@ -14,9 +14,9 @@ I create technical content on my [Blog](https://bolajiayodeji.com) && [YouTube](
 ### Useful Links
 
 - [Blog](https://bolajiayodeji.com/)
-- [Hashnode](https://hashnode.com/@bolajiayodeji)
-- [GitHub](https://github.com/BolajiAyodeji)
 - [Patreon](https://www.patreon.com/bolajiayodeji)
+- [GitHub](https://github.com/BolajiAyodeji)
+- [Hashnode](https://hashnode.com/@bolajiayodeji)
 - [YouTube](https://www.youtube.com/c/bolajiayodeji)
 - [Twitter](https://twitter.com/iambolajiayo)
 - [Instagram](https://www.instagram.com/iambolajiayo/)
