@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1594278403731/jwcRIHRj5.png)](https://bolajiayodeji.com)
-
 I'm a JAMstack Developer and Technical Writer who currently works in Developer Relations at [Hashnode](https://hashnode.com). I'm passionate about sharing knowledge, documentation, web engineering, JAMstack, communities, and sustaining FOSS.
 
 I create technical content on my [Blog](https://bolajiayodeji.com) && [YouTube](https://www.youtube.com/c/bolajiayodeji), [speak](https://bolajiayodeji.com/talks) at a couple of technical events and organize several events && programs for my [local](https://facebook.com/groups/devclokoja/) and global community.
