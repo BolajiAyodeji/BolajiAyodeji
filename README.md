@@ -9,7 +9,7 @@ I create technical content on my [Blog](https://bolajiayodeji.com) && [YouTube](
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.bible.com/bible/111/jhn.3.16).
 
-#### Useful Links
+### Useful Links 💙
 
 - [Blog](https://bolajiayodeji.com/)
 - [Patreon](https://www.patreon.com/bolajiayodeji)
