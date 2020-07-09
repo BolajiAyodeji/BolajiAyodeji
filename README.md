@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1594278403731/jwcRIHRj5.png)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1594278403731/jwcRIHRj5.png)](https://bolajiayodeji.com)
 
 I'm a JAMstack Developer and Technical Writer who currently works in Developer Relations at [Hashnode](https://hashnode.com). I'm passionate about sharing knowledge, documentation, web engineering, JAMstack, communities, and sustaining FOSS.
 
