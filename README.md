@@ -1,4 +1,4 @@
-### Bienvenue, incroyable 👋
+### Bienvenue, incroyable 👋🏾
 
 I'm a JAMstack Developer and Technical Writer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about sharing knowledge, documentation, web engineering, JAMstack, communities, and FOSS.
 
