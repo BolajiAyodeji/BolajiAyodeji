@@ -7,7 +7,7 @@ I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newslette
 - 💬 Ask me about: Documentation, Web Engineering, JAMstack, Headless Commerce, Communities, and FOSS.
 - 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo)
 - 😊 Pronouns: He/him
-- 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV).
+- 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.goodreads.com/book/show/1147548.Jonathan_Edwards_Knowing_Christ).
 
 ### Useful Links 🌻
 
