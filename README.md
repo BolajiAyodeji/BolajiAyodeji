@@ -4,10 +4,8 @@
 
 I'm a Software Engineer, Content Creator, and Developer Advocate who currently works at [Commerce Layer](https://commercelayer.io). I'm passionate  about web engineering, data, embedded systems, documentation, Jamstack, headless commerce, composable infrastructures, learning, sharing knowledge, teaching, building communities, open-source, [Chess](https://chess.com/member/bolajiayodeji), and the [gospel of Jesus Christ](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV). I create technical content (on my [Blog](https://blog.bolajiayodeji.com), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build some [open-source projects](https://github.com/BolajiAyodeji), [speak](https://slides.com/bolajiayodeji) at some meetups/conferences and build several technical communities.
 
-- 😊 Pronouns: He/him
-- 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo).
-- 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.goodreads.com/book/show/1147548.Jonathan_Edwards_Knowing_Christ).
-
 ---
 
-<img src="https://gpvc.arturio.dev/BolajiAyodeji" alt="profile views">
+- 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo).
+- 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com) to hear from me weekly.
+- 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.goodreads.com/book/show/1147548.Jonathan_Edwards_Knowing_Christ).
