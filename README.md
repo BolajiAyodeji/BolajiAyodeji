@@ -4,7 +4,7 @@
 
 </div>
 
-Hi there 👋🏾. I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content (on my [Blog](https://blog.bolajiayodeji.com), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build open-source projects and learning materials, [speak/teach](https://slides.com/bolajiayodeji) at developer meetups/conferences, and build several technical communities.
+Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content (on my [Blog](https://blog.bolajiayodeji.com), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build open-source projects and learning materials, [speak/teach](https://slides.com/bolajiayodeji) at developer meetups/conferences, and build several technical communities.
 
 ---
 
