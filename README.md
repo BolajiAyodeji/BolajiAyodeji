@@ -17,8 +17,8 @@ Hi there 👋🏾! I'm an innovative technology professional with progressive IT
 
 ## OSS Learning Materials
 
-- [Deploying Machine Learning Models to the Web](https://github.com/BolajiAyodeji/deploy-ml-web-workshop)
-- [Building an Ecommerce Solution with CL Demo Stores](https://github.com/BolajiAyodeji/cl-composable-commerce-workshop)
+- [Deploying Machine Learning Models to the Web](https://github.com/BolajiAyodeji/deploy-ml-web-workshop).
+- [Building an Ecommerce Solution with CL Demo Stores](https://github.com/BolajiAyodeji/cl-composable-commerce-workshop).
 - More coming soon :).
 
 ---
