@@ -1,24 +1,62 @@
-<div align="center">
-  
-[![Website Badge](https://img.shields.io/badge/-Portfolio-3B7EBF?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bolajiayodeji.com)](https://bolajiayodeji.com) [![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://blog.bolajiayodeji.com)](https://blog.bolajiayodeji.com) [![Newsletter Badge](https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&logo=Substack&logoColor=white&link=https://bawd.bolajiayodeji.com)](https://bawd.bolajiayodeji.com) [![YouTube Badge](https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/bolajiayodeji)](https://www.youtube.com/c/bolajiayodeji) [![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/sponsors/BolajiAyodeji)](https://github.com/sponsors/BolajiAyodeji) [![Patreon Badge](https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&logo=Patreon&logoColor=white&link=https://patreon.com/bolajiayodeji)](https://patreon.com/bolajiayodeji) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/iambolajiayo) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/iambolajiayo) ![](https://komarev.com/ghpvc/?username=BolajiAyodeji&style=for-the-badge)
-
-</div>
-
-Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content (on my [Blog](https://blog.bolajiayodeji.com), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build open-source projects and learning materials, [speak/teach](https://slides.com/bolajiayodeji) at developer meetups/conferences, and build several technical communities.
-
----
-
-## Quick Tips
-
-- 📫 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo).
-- 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com) to hear from me weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).
-- 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ]( https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV).
-- 📖 Book recommendations: [All of Grace by Charles Spurgeon](https://bit.ly/3KYYHij), [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW), and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).
-
-## OSS Learning Materials
-
-- [Deploying Machine Learning Models to the Web](https://github.com/BolajiAyodeji/deploy-ml-web-workshop).
-- [Building an Ecommerce Solution with CL Demo Stores](https://github.com/BolajiAyodeji/cl-composable-commerce-workshop).
-- More coming soon :).
-
----
+  <div align="center">
+<p><a href="https://bolajiayodeji.com"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a> <a href="https://blog.bolajiayodeji.com"><img src="https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&amp;logo=Hashnode&amp;logoColor=white" alt="Blog Badge"></a>  <a href="https://bawd.bolajiayodeji.com"><img src="https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&amp;logo=Substack&amp;logoColor=white" alt="Newsletter Badge"></a>  <a href="https://youtube.com/c/bolajiayodeji"><img src="https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&amp;logo=Youtube&amp;logoColor=white" alt="YouTube Badge"></a> <a href="https://slides.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Slides-3B7EBF?style=for-the-badge&amp;logo=slides&amp;logoColor=white" alt="Slides Badge"></a>  <a href="https://linkedin.com/in/iambolajiayo"><img src="https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge"></a>  <a href="https://twitter.com/iambolajiayo"><img src="https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"></a>  <a href="https://github.com/sponsors/BolajiAyodeji"><img src="https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Sponsors Badge"></a>  <a href="https://patreon.com/bolajiayodeji"><img src="https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&amp;logo=Patreon&amp;logoColor=white" alt="Patreon Badge"></a> <img src="https://komarev.com/ghpvc/?username=BolajiAyodeji&amp;style=for-the-badge" alt="Profile Views Count Badge"></p>
+<hr>
+<p>Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content, build open-source projects and learning materials, speak/teach at developer meetups/conferences, and build several technical communities.</p>
+<hr>
+<p><a href="https://github.com/BolajiAyodeji"><img src="https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;theme=transparent&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;border_color=3B7EBF&amp;border_radius=0&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage#gh-dark-mode-only" alt="GitHub Stats"></a></p>
+<p><a href="https://github.com/BolajiAyodeji"><img src="https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;theme=transparent&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;border_color=3B7EBF&amp;border_radius=0&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only" alt="GitHub Stats"></a></p>
+  </div>
+<hr>
+<h2>Highlights</h2>
+  <details>
+  <summary>OSS Projects</summary>
+  <br />
+  <ul><li><a href=https://github.com/BolajiAyodeji/fed-unis-perf-eval target="_blank" rel="noopener noreferrer">BolajiAyodeji/fed-unis-perf-eval</a> (<b>3</b> ✨): Research: Accessibility And Performance Evaluation Of Federal University Websites In Nigeria.</li><li><a href=https://github.com/BolajiAyodeji/movie_reviews_sentiment_analysis target="_blank" rel="noopener noreferrer">BolajiAyodeji/movie_reviews_sentiment_analysis</a> (<b>4</b> ✨): A ML model that will predict whether a movie review is positive or negative.</li><li><a href=https://github.com/BolajiAyodeji/dotfiles target="_blank" rel="noopener noreferrer">BolajiAyodeji/dotfiles</a> (<b>9</b> ✨): My dotfiles, aliases, configurations, and general workspace setup.</li>
+<li>More coming soon :).</li>
+</ul>
+  </details>
+  <details>
+  <summary>OSS Learning Materials</summary>
+  <br />
+  <ul><li><a href=https://github.com/BolajiAyodeji/deploy-ml-web-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/deploy-ml-web-workshop</a> (<b>8</b> ✨): In this workshop, you will learn how to build a machine learning model using Python/Scikit-Learn, turn the model into an API using Python/Flask, test the API, build web applications using HTML/CSS/JavaScript/Nextjs, and deploy it to the web for global usage by end-users.</li><li><a href=https://github.com/BolajiAyodeji/cl-composable-commerce-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/cl-composable-commerce-workshop</a> (<b>8</b> ✨): In this workshop, you will learn how to build a completely static ecommerce solution with Commerce Layer, Demo Stores, and some other dev tools.</li>
+<li>More coming soon :).</li>
+</ul>
+  </details>
+  <details>
+  <summary>Recent Blogposts</summary>
+  <br />
+  <ul>
+    <li><a href=https://blog.bolajiayodeji.com/my-developer-advocate-portfolio target="_blank" rel="noopener noreferrer">My Developer Advocate Portfolio</a> (28/8/2023).</li><li><a href=https://blog.bolajiayodeji.com/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store target="_blank" rel="noopener noreferrer">Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store</a> (21/1/2023).</li><li><a href=https://blog.bolajiayodeji.com/introducing-github-community-health-files target="_blank" rel="noopener noreferrer">Introducing GitHub Community Health Files</a> (27/9/2022).</li><li><a href=https://blog.bolajiayodeji.com/contributing-to-open-source-pocket-guide target="_blank" rel="noopener noreferrer">Contributing to Open Source Pocket Guide</a> (11/9/2022).</li><li><a href=https://blog.bolajiayodeji.com/how-to-deploy-a-machine-learning-model-to-the-web target="_blank" rel="noopener noreferrer">How to Deploy a Machine Learning Model to the Web</a> (3/9/2022).</li>
+  </ul>
+<p>Read more blog posts: <a href="https://blog.bolajiayodeji.com">https://blog.bolajiayodeji.com</a>.</p>
+  </details>
+  <details>
+  <summary>Recent Newsletters</summary>
+  <br />
+  <ul>
+    <li><a href=https://bawd.bolajiayodeji.com/p/bawd-115-error-messages-and-finding target="_blank" rel="noopener noreferrer">[BAWD #115] Error Messages and Finding a Fulfilling Career</a> (22/10/2023).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-114-hacktoberfest-v0-and-webml target="_blank" rel="noopener noreferrer">[BAWD #114] Hacktoberfest, v0, and WebML</a> (1/10/2023).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-113-code-reviews-project-idx target="_blank" rel="noopener noreferrer">[BAWD #113] Code Reviews, Project IDX, and Vercel AI SDK</a> (5/9/2023).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-112-commercial-open-source-and target="_blank" rel="noopener noreferrer">[BAWD #112] Commercial Open Source and CityJS Lagos</a> (20/8/2023).</li><li><a href=https://bawd.bolajiayodeji.com/p/bawd-111-stop-being-a-junior-developer target="_blank" rel="noopener noreferrer">[BAWD #111] Stop Being a Junior Developer</a> (7/8/2023).</li>
+  </ul>
+<p>Read more newsletter issues: <a href="https://bawd.bolajiayodeji.com/archive">https://bawd.bolajiayodeji.com/archive</a>.</p>
+  </details>
+  <details>
+  <summary>Quick Tips</summary>
+<ul>
+<li>
+<p>💬 How to reach me: DM <a href="https://twitter.com/iambolajiayo">@iambolajiayo</a> on X (Twitter).</p>
+</li>
+<li>
+<p>📬 Where to find me: Subscribe to my <a href="https://bawd.bolajiayodeji.com/subscribe">newsletter</a> to hear from me bi-weekly or send a game request on <a href="https://chess.com/member/bolajiayodeji">chess.com</a>.</p>
+</li>
+<li>
+<p>📖 Book recommendations: <a href="https://bit.ly/3KYYHij">All of Grace by Charles Spurgeon</a>, <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a>, and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
+</li>
+<li>
+<p>💙 Special note: I just want you to know that <a href="https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&amp;version=NKJV">Jesus loves you</a> :).</p>
+</li>
+</ul>
+  </details>
+<hr>
+<p><a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/workflows/Rebuild%20README/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+  <div align="center">
+<p><a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a></p>
+  </div>

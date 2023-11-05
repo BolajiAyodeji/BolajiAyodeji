@@ -1,0 +1,31 @@
+{
+  "name": "bolajiayodeji",
+  "version": "1.0.0",
+  "description": "Bolaji Ayodeji's GitHub Profile",
+  "main": "src/app.ts",
+  "scripts": {
+    "build": "npx tsc",
+    "build:watch": "npx tsc-watch",
+    "start": "npm run build && node build/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolajiAyodeji/BolajiAyodeji.git"
+  },
+  "author": "Bolaji Ayodeji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BolajiAyodeji/BolajiAyodeji/issues"
+  },
+  "homepage": "https://github.com/BolajiAyodeji/BolajiAyodeji#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "markdown-it": "^13.0.2",
+    "rss-parser": "^3.13.0",
+    "tsc-watch": "^6.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  }
+}
