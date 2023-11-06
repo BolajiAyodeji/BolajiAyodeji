@@ -32,19 +32,17 @@ const patreonUrl = "https://patreon.com/bolajiayodeji";
 async function generateMarkdown() {
   const websiteBadge = `[![Website Badge](https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&logo=amp&logoColor=white)](${websiteUrl})`;
   const hashnodeBadge = `[![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white)](${blogUrl})`;
-  const substackBadge = ` [![Newsletter Badge](https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&logo=Substack&logoColor=white)](${newsletterUrl})`;
-  const youtubeBadge = ` [![YouTube Badge](https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&logo=Youtube&logoColor=white)](${youtubeUrl})`;
+  const substackBadge = `[![Newsletter Badge](https://img.shields.io/badge/-Newsletter-3B7EBF?style=for-the-badge&logo=Substack&logoColor=white)](${newsletterUrl})`;
+  const youtubeBadge = `[![YouTube Badge](https://img.shields.io/badge/-Youtube-3B7EBF?style=for-the-badge&logo=Youtube&logoColor=white)](${youtubeUrl})`;
   const slidesBadge = `[![Slides Badge](https://img.shields.io/badge/-Slides-3B7EBF?style=for-the-badge&logo=slides&logoColor=white)](${slidesUrl})`;
-  const linkedinBadge = ` [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](${linkedinUrl})`;
-  const twitterBadge = ` [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
-  const githubSponsorsBadge = ` [![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
-  const patreonBadge = ` [![Patreon Badge](https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&logo=Patreon&logoColor=white)](${patreonUrl})`;
+  const linkedinBadge = `[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](${linkedinUrl})`;
+  const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
+  const githubSponsorsBadge = `[![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
+  const patreonBadge = `[![Patreon Badge](https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&logo=Patreon&logoColor=white)](${patreonUrl})`;
   const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
-  const githubStatsCardDark =
-    "https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage";
-  const githubStatsCardLight =
-    "https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage";
+  const githubStatsCardDark = `https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage`;
+  const githubStatsCardLight = `https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&\title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage`;
 
   const markdownText = `
   <div align="center">\n
@@ -60,11 +58,11 @@ async function generateMarkdown() {
   <picture>\n
   <source
     media="(prefers-color-scheme: dark)"
-    srcset=${githubStatsCardDark}
+    srcset="${githubStatsCardDark}"
   />\n
   <source
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset=${githubStatsCardLight}
+    srcset="${githubStatsCardLight}"
   />\n
   <img alt="GitHub Open Source Stats Card" />\n
   </picture>\n
@@ -104,7 +102,7 @@ async function generateMarkdown() {
   - 💬 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo) on X (Twitter).\n
   - 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com/subscribe) to hear from me bi-weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).\n
   - 📖 Book recommendations: [All of Grace by Charles Spurgeon](https://bit.ly/3KYYHij), [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW), and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
-  - 💙 Special note: I just want you to know that [Jesus loves you](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV) :).\n
+  - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV).\n
   </details>\n
   
   ---\n
