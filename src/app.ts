@@ -16,7 +16,11 @@ const ossProjectRepos = [
   "movie_reviews_sentiment_analysis",
   "dotfiles"
 ];
-const ossLearningMaterialRepos = ["deploy-ml-web-workshop", "cl-composable-commerce-workshop"];
+const ossLearningMaterialRepos = [
+  "deploy-ml-web-workshop",
+  "cl-composable-commerce-workshop",
+  "cl-jamstack-ecommerce-workshop"
+];
 
 const githubUsername = "BolajiAyodeji";
 const websiteUrl = "https://bolajiayodeji.com";
@@ -41,13 +45,10 @@ async function generateMarkdown() {
   const patreonBadge = `[![Patreon Badge](https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&logo=Patreon&logoColor=white)](${patreonUrl})`;
   const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
-  const githubStatsCardDark =
-    "[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/BolajiAyodeji/BolajiAyodeji#gh-dark-mode-only)";
-  const githubStatsCardLight =
-    "[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/BolajiAyodeji/BolajiAyodeji#gh-light-mode-only)";
+  const githubStatsCardDark = `[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)`;
+  const githubStatsCardLight = `[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)`;
 
-  const markdownText = `
-  <div align="center">\n
+  const markdownText = `<div align="center">\n
 
   ${websiteBadge} ${hashnodeBadge} ${substackBadge} ${youtubeBadge} ${slidesBadge} ${linkedinBadge} ${twitterBadge} ${githubSponsorsBadge} ${patreonBadge} ${profileCountBadge}\n
   
@@ -57,9 +58,9 @@ async function generateMarkdown() {
   
   ---\n
 
-  [![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)
-  [![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)
-  
+  ${githubStatsCardDark}\n
+  ${githubStatsCardLight}\n
+
   </div>\n
   
   ---\n
@@ -69,11 +70,15 @@ async function generateMarkdown() {
   <details>\n
   <summary>OSS Projects</summary>\n
   <br />
+  Here are some of my other projects you might want to check out that are not pinned:\n
+  <br />
   ${await fetchGitHubData(ossProjectRepos)}\n
   </details>\n
   
   <details>\n
   <summary>OSS Learning Materials</summary>\n
+  <br />
+  Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:\n
   <br />
   ${await fetchGitHubData(ossLearningMaterialRepos)}\n
   </details>\n
@@ -94,18 +99,17 @@ async function generateMarkdown() {
   <summary>Quick Tips</summary>\n\n
   - 💬 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo) on X (Twitter).\n
   - 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com/subscribe) to hear from me bi-weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).\n
-  - 📖 Book recommendations: [All of Grace by Charles Spurgeon](https://bit.ly/3KYYHij), [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW), and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
-  - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV).\n
+  - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
+  - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV). Check [this](https://bit.ly/3KYYHij) out :).\n
   </details>\n
   
   ---\n
 
-  <a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/workflows/Rebuild%20GitHub%20Profile%20README/badge.svg" align="right" alt="Rebuild README.md file"></a>\n
+  <a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/workflows/GitHub%20Profile%20README/badge.svg" align="right" alt="Rebuild README.md file"></a>\n
    
   <div align="center">\n
    <a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a>\n
-  </div>\n
-  `;
+  </div>`;
 
   const result = md.render(markdownText);
 

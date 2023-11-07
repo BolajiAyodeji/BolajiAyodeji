@@ -1,4 +1,4 @@
-name: Rebuild GitHub Profile README
+name: GitHub Profile README
 
 on:
   push:
