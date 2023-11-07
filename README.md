@@ -12,7 +12,7 @@
   <summary>OSS Projects</summary>
   <br />
   Here are some of my other projects you might want to check out that are not pinned:
-  <br />
+<p><br /><br /></p>
   <ul><li><a href=https://github.com/BolajiAyodeji/BolajiAyodeji target="_blank" rel="noopener noreferrer">BolajiAyodeji/BolajiAyodeji</a> (<b>3</b> ✨): My automated GitHub Profile README built using TypeScript and GitHub Actions.</li><li><a href=https://github.com/BolajiAyodeji/fed-unis-perf-eval target="_blank" rel="noopener noreferrer">BolajiAyodeji/fed-unis-perf-eval</a> (<b>3</b> ✨): Research: Accessibility And Performance Evaluation Of Federal University Websites In Nigeria.</li><li><a href=https://github.com/BolajiAyodeji/movie_reviews_sentiment_analysis target="_blank" rel="noopener noreferrer">BolajiAyodeji/movie_reviews_sentiment_analysis</a> (<b>4</b> ✨): A ML model that will predict whether a movie review is positive or negative.</li><li><a href=https://github.com/BolajiAyodeji/dotfiles target="_blank" rel="noopener noreferrer">BolajiAyodeji/dotfiles</a> (<b>9</b> ✨): My dotfiles, aliases, configurations, and general workspace setup.</li>
 <li>More coming soon :).</li>
 </ul>
@@ -21,8 +21,8 @@
   <summary>OSS Learning Materials</summary>
   <br />
   Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:
-  <br />
-  <ul><li><a href=https://github.com/BolajiAyodeji/deploy-ml-web-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/deploy-ml-web-workshop</a> (<b>8</b> ✨): In this workshop, you will learn how to build a machine learning model using Python/Scikit-Learn, turn the model into an API using Python/Flask, test the API, build web applications using HTML/CSS/JavaScript/Nextjs, and deploy it to the web for global usage by end-users.</li><li><a href=https://github.com/BolajiAyodeji/cl-composable-commerce-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/cl-composable-commerce-workshop</a> (<b>8</b> ✨): In this workshop, you will learn how to build a completely static ecommerce solution with Commerce Layer, Demo Stores, and some other dev tools.</li><li><a href=https://github.com/BolajiAyodeji/cl-jamstack-ecommerce-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/cl-jamstack-ecommerce-workshop</a> (<b>8</b> ✨): Build headless commerce web experiences with Jamstack and Commerce Layer.</li>
+<p><br /><br /></p>
+  <ul><li><a href=https://github.com/BolajiAyodeji/deploy-ml-web-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/deploy-ml-web-workshop</a> (<b>8</b> ✨): In this workshop, you will learn how to build a machine learning model using Python/Scikit-Learn, turn the model into an API using Python/Flask, test the API, build web applications using HTML/CSS/JavaScript/Nextjs, and deploy it to the web for global usage by end-users.</li><li><a href=https://github.com/BolajiAyodeji/cl-composable-commerce-workshop target="_blank" rel="noopener noreferrer">BolajiAyodeji/cl-composable-commerce-workshop</a> (<b>8</b> ✨): In this workshop, you will learn how to build a completely static ecommerce solution with Commerce Layer, Demo Stores, and some other dev tools.</li>
 <li>More coming soon :).</li>
 </ul>
   </details>
