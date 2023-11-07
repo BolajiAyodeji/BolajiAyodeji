@@ -41,8 +41,10 @@ async function generateMarkdown() {
   const patreonBadge = `[![Patreon Badge](https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&logo=Patreon&logoColor=white)](${patreonUrl})`;
   const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
-  const githubStatsCardDark = `https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage`;
-  const githubStatsCardLight = `https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&\title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage`;
+  const githubStatsCardDark =
+    "[![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/BolajiAyodeji/BolajiAyodeji#gh-dark-mode-only)";
+  const githubStatsCardLight =
+    "[![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/BolajiAyodeji/BolajiAyodeji#gh-light-mode-only)";
 
   const markdownText = `
   <div align="center">\n
@@ -55,17 +57,8 @@ async function generateMarkdown() {
   
   ---\n
 
-  <picture>\n
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="${githubStatsCardDark}"
-  />\n
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="${githubStatsCardLight}"
-  />\n
-  <img alt="GitHub Open Source Stats Card" />\n
-  </picture>\n
+  [![GitHub-Stats-Card-Dark](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-dark-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-dark-mode-only)
+  [![GitHub-Stats-Card-Light](https://github-readme-stats.vercel.app/api?username=${githubUsername}&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&title_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only)](https://github.com/${githubUsername}/${githubUsername}#gh-light-mode-only)
   
   </div>\n
   
