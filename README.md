@@ -3,17 +3,8 @@
 <hr>
 <p>Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content, build open-source projects and learning materials, speak/teach at developer meetups/conferences, and build several technical communities.</p>
 <hr>
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&title_color=3B7EBF&text_color=FFF&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&show_icons=true&hide_border=true&include_all_commits=true&card_width=600&custom_title=GitHub%20Open%20Source%20Stats&theme=transparent&	itle_color=3B7EBF&text_color=474A4E&icon_color=3B7EBF&border_color=3B7EBF&border_radius=0&hide=contribs&show=reviews,prs_merged,prs_merged_percentage"
-  />
-  <img alt="GitHub Open Source Stats Card" />
-  </picture>
+<p><a href="https://github.com/BolajiAyodeji/BolajiAyodeji#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;border_color=3B7EBF&amp;border_radius=0&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a><br>
+<a href="https://github.com/BolajiAyodeji/BolajiAyodeji#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=BolajiAyodeji&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;border_color=3B7EBF&amp;border_radius=0&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
   </div>
 <hr>
 <h2>Highlights</h2>
