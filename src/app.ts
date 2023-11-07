@@ -16,11 +16,7 @@ const ossProjectRepos = [
   "movie_reviews_sentiment_analysis",
   "dotfiles"
 ];
-const ossLearningMaterialRepos = [
-  "deploy-ml-web-workshop",
-  "cl-composable-commerce-workshop",
-  "cl-jamstack-ecommerce-workshop"
-];
+const ossLearningMaterialRepos = ["deploy-ml-web-workshop", "cl-composable-commerce-workshop"];
 
 const githubUsername = "BolajiAyodeji";
 const websiteUrl = "https://bolajiayodeji.com";
@@ -71,7 +67,7 @@ async function generateMarkdown() {
   <summary>OSS Projects</summary>\n
   <br />
   Here are some of my other projects you might want to check out that are not pinned:\n
-  <br />
+  <br /><br />
   ${await fetchGitHubData(ossProjectRepos)}\n
   </details>\n
   
@@ -79,7 +75,7 @@ async function generateMarkdown() {
   <summary>OSS Learning Materials</summary>\n
   <br />
   Here are some of my unique-styled workshop materials you can use to learn key concepts at your own pace:\n
-  <br />
+  <br /><br />
   ${await fetchGitHubData(ossLearningMaterialRepos)}\n
   </details>\n
   
