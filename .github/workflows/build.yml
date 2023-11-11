@@ -10,23 +10,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+      - name: Checkout Repo
+        uses: actions/checkout@v4
       - name: Use Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           node-version: "18"
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
-      - name: Rebuild README.md file
+      - name: Rebuild README.md File
         run: |-
           npm run start
           cat README.md
-      - name: Commit and push if changed
+      - name: Commit and Push if Changed
         run: |-
           git add .
           git diff
-          git config --global user.email "mailtobolaji+readmebot@gmail.com"
-          git config --global user.name "BA README Bot"
-          git commit -m "docs: update README.md (scheduled)" -a || exit 0
+          git config --global user.email "mailtobolaji+actionsbot@gmail.com"
+          git config --global user.name "BA Actions Bot"
+          git commit -m "docs: auto-update README.md" -a || exit 0
           git push
