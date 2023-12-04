@@ -82,7 +82,7 @@ async function generateMarkdown() {
   <details>\n
   <summary>Recent Blogposts</summary>\n
   <br />
-  ${await fetchRssData(blogFeedUrl, true)}\n
+  ${await fetchRssData(blogFeedUrl)}\n
   </details>\n
   
   <details>\n

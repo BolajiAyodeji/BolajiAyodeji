@@ -1,6 +1,6 @@
-const owner = "BolajiAyodeji";
-
 export async function fetchGitHubData(repos: Array<string>): Promise<string> {
+  const owner = "BolajiAyodeji";
+
   const list = await Promise.all(
     repos.map(async (repo) => {
       const response = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
