@@ -19,9 +19,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Rebuild README.md File
-        run: |-
-          npm run start
-          cat README.md
+        run: npm run start
       - name: Commit and Push if Changed
         run: |-
           git add .
