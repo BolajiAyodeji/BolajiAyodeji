@@ -32,7 +32,7 @@
   <summary>Recent Blogposts</summary>
   <br />
   <ul>
-    <li><a href=https://blog.bolajiayodeji.com/my-developer-advocate-portfolio?utm_source=github-profile target="_blank" rel="noopener noreferrer">My Developer Advocate Portfolio</a> (28/8/2023).</li><li><a href=https://blog.bolajiayodeji.com/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store?utm_source=github-profile target="_blank" rel="noopener noreferrer">Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store</a> (21/1/2023).</li><li><a href=https://blog.bolajiayodeji.com/introducing-github-community-health-files?utm_source=github-profile target="_blank" rel="noopener noreferrer">Introducing GitHub Community Health Files</a> (27/9/2022).</li><li><a href=https://blog.bolajiayodeji.com/contributing-to-open-source-pocket-guide?utm_source=github-profile target="_blank" rel="noopener noreferrer">Contributing to Open Source Pocket Guide</a> (11/9/2022).</li><li><a href=https://blog.bolajiayodeji.com/how-to-deploy-a-machine-learning-model-to-the-web?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Deploy a Machine Learning Model to the Web</a> (3/9/2022).</li>
+    <li><a href=https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Create an Automated Profile README using Nodejs and GitHub Actions</a> (4/12/2023).</li><li><a href=https://blog.bolajiayodeji.com/my-developer-advocate-portfolio?utm_source=github-profile target="_blank" rel="noopener noreferrer">My Developer Advocate Portfolio</a> (28/8/2023).</li><li><a href=https://blog.bolajiayodeji.com/building-an-ecommerce-store-with-nextjs-and-commerce-layer-demo-store?utm_source=github-profile target="_blank" rel="noopener noreferrer">Building an Ecommerce Store with Nextjs and Commerce Layer Demo Store</a> (21/1/2023).</li><li><a href=https://blog.bolajiayodeji.com/introducing-github-community-health-files?utm_source=github-profile target="_blank" rel="noopener noreferrer">Introducing GitHub Community Health Files</a> (27/9/2022).</li><li><a href=https://blog.bolajiayodeji.com/contributing-to-open-source-pocket-guide?utm_source=github-profile target="_blank" rel="noopener noreferrer">Contributing to Open Source Pocket Guide</a> (11/9/2022).</li>
   </ul>
 <p>Read more blog posts: <a href="https://blog.bolajiayodeji.com">https://blog.bolajiayodeji.com</a>.</p>
   </details>
@@ -62,7 +62,7 @@
 </ul>
   </details>
 <hr>
-<p><a href="https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
+<p><a href="#">Learn how this works.</a> <a href="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml"><img src="https://github.com/BolajiAyodeji/BolajiAyodeji/actions/workflows/build.yml/badge.svg" align="right" alt="Rebuild README.md file"></a></p>
   <div align="center">
 <p><a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://bolajiayodeji.com/favicon.png" width="30" /></a></p>
   </div>
