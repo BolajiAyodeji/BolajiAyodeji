@@ -9,9 +9,15 @@ export async function fetchGitHubData(repos: Array<string>): Promise<string> {
       }
       const data = await response.json();
 
-      const { html_url: url, full_name: name, stargazers_count: stars, description: desc } = data;
+      const {
+        html_url: url,
+        full_name: name,
+        stargazers_count: stars,
+        forks_count: forks,
+        description: desc
+      } = data;
 
-      return `<li><a href=${url} target="_blank" rel="noopener noreferrer">${name}</a> (<b>${stars}</b> ✨): ${desc}</li>`;
+      return `<li><a href=${url} target="_blank" rel="noopener noreferrer">${name}</a> (<b>${stars}</b> ✨ and <b>${forks}</b> 🍴): ${desc}</li>`;
     })
   );
 
