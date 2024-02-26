@@ -11,10 +11,12 @@ const blogFeedUrl = "https://blog.bolajiayodeji.com/rss.xml";
 const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
 
 const ossProjectRepos = [
+  "chat-with-siri"
   "BolajiAyodeji",
   "fed-unis-perf-eval",
   "movie_reviews_sentiment_analysis",
-  "dotfiles"
+  "dotfiles",
+  "hh-store"
 ];
 const ossLearningMaterialRepos = ["deploy-ml-web-workshop", "cl-composable-commerce-workshop"];
 
