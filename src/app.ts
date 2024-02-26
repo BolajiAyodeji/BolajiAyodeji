@@ -11,7 +11,7 @@ const blogFeedUrl = "https://blog.bolajiayodeji.com/rss.xml";
 const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
 
 const ossProjectRepos = [
-  "chat-with-siri"
+  "chat-with-siri",
   "BolajiAyodeji",
   "fed-unis-perf-eval",
   "movie_reviews_sentiment_analysis",
