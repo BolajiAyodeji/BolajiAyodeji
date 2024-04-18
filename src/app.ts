@@ -12,6 +12,7 @@ const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
 
 const ossProjectRepos = [
   "chat-with-siri",
+  "attraktives-headshot",
   "BolajiAyodeji",
   "fed-unis-perf-eval",
   "movie_reviews_sentiment_analysis",
