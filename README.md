@@ -57,7 +57,7 @@
 <p>📖 Book recommendations: <a href="https://bit.ly/3EdCFUW">Knowing God by J. I. Packer</a> and <a href="https://bit.ly/45r1kBH">Atomic Habits by James Clear</a>.</p>
 </li>
 <li>
-<p>💙 Fun fact: I'm in a blissful relationship <a href="https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&amp;version=NKJV">with Jesus Christ</a>. Check <a href="https://bit.ly/3KYYHij">this</a> out :).</p>
+<p>💙 Fun fact: I'm in a blissful relationship <a href="https://biblegateway.com/passage/?search=1+Timothy+1%3A15-17&amp;version=ESV">with Jesus Christ</a>. Check <a href="https://bit.ly/3KYYHij">this</a> out :).</p>
 </li>
 </ul>
   </details>
