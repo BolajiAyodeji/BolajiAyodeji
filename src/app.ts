@@ -99,7 +99,7 @@ async function generateMarkdown() {
   - 💬 How to reach me: DM [@iambolajiayo](https://x.com/iambolajiayo) on X (Twitter).\n
   - 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com/subscribe) to hear from me bi-weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).\n
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
-  - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV). Check [this](https://bit.ly/3KYYHij) out :).\n
+  - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Timothy+1%3A15-17&version=ESV). Check [this](https://bit.ly/3KYYHij) out :).\n
   </details>\n
   
   ---\n
