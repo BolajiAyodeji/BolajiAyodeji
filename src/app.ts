@@ -27,8 +27,8 @@ const blogUrl = "https://blog.bolajiayodeji.com";
 const newsletterUrl = "https://bawd.bolajiayodeji.com";
 const youtubeUrl = "https://youtube.com/c/bolajiayodeji";
 const slidesUrl = "https://slides.com/bolajiayodeji";
-const twitterUrl = "https://twitter.com/iambolajiayo";
-const linkedinUrl = "https://linkedin.com/in/iambolajiayo";
+const twitterUrl = "https://x.com/iambolajiayo";
+const linkedinUrl = "https://linkedin.com/in/bolajiayodeji";
 const githubSponsorsUrl = "https://github.com/sponsors/BolajiAyodeji";
 const patreonUrl = "https://patreon.com/bolajiayodeji";
 
@@ -40,7 +40,7 @@ async function generateMarkdown() {
   const slidesBadge = `[![Slides Badge](https://img.shields.io/badge/-Slides-3B7EBF?style=for-the-badge&logo=slides&logoColor=white)](${slidesUrl})`;
   const linkedinBadge = `[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](${linkedinUrl})`;
   const twitterBadge = `[![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](${twitterUrl})`;
-  const githubSponsorsBadge = `[![GitHub Sponsors Badge](https://img.shields.io/badge/-github%20sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
+  const githubSponsorsBadge = `[![GitHub Sponsors Badge](https://img.shields.io/badge/-sponsors-3B7EBF?style=for-the-badge&logo=github&logoColor=white)](${githubSponsorsUrl})`;
   const patreonBadge = `[![Patreon Badge](https://img.shields.io/badge/-Patreon-3B7EBF?style=for-the-badge&logo=Patreon&logoColor=white)](${patreonUrl})`;
   const profileCountBadge = `![Profile Views Count Badge](https://komarev.com/ghpvc/?username=${githubUsername}&style=for-the-badge)`;
 
@@ -53,7 +53,7 @@ async function generateMarkdown() {
   
   ---\n
   
-  Hi there 👋🏾! I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, documentation, technical writing, open-source, community building, and entrepreneurship experience in for-profit startups and non-profit technology and education organizations. I create technical content, build open-source projects and learning materials, speak/teach at developer meetups/conferences, and build several technical communities.\n
+  Hi there 👋🏾! I'm a Software Engineer, Teacher, and Developer Advocate working to support the growth of open-source technologies and <a href="https://digitalpublicgoods.net/digital-public-goods?ref=bolajiayodeji" target="_blank" rel="noopener noreferrer">digital public goods</a>. I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, technical documentation/writing, open-source, and community/programs management experience in for-profit startups and non-profit technology and education organizations. I have spent the past years writing code for stuff that runs on the web, educating developers, helping different dev-tool startups connect and sustain profitable relationships with their ideal developer and customer profiles, and building open-source/developer communities. Nice to e-meet you :)!\n
   
   ---\n
 
@@ -96,7 +96,7 @@ async function generateMarkdown() {
   
   <details>\n
   <summary>Quick Tips</summary>\n\n
-  - 💬 How to reach me: DM [@iambolajiayo](https://twitter.com/iambolajiayo) on X (Twitter).\n
+  - 💬 How to reach me: DM [@iambolajiayo](https://x.com/iambolajiayo) on X (Twitter).\n
   - 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com/subscribe) to hear from me bi-weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).\n
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
   - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Corinthians+15%3A1-11&version=NKJV). Check [this](https://bit.ly/3KYYHij) out :).\n
