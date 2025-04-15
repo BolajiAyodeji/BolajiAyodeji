@@ -1,5 +1,9 @@
 import Parser from "rss-parser";
-const parser = new Parser();
+const parser = new Parser(
+    headers: {
+    'User-Agent': 'BolajiBot/1.0 (https://letters.bolajiayodeji.com)'
+  }
+);
 
 export async function fetchRssData(url: string): Promise<string> {
   const feed = await parser.parseURL(url);
