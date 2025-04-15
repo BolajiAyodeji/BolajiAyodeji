@@ -8,7 +8,7 @@ import { fetchRssData } from "./fetchRssData";
 import { fetchGitHubData } from "./fetchGitHubData";
 
 const blogFeedUrl = "https://blog.bolajiayodeji.com/rss.xml";
-const newsletterFeedUrl = "https://bawd.bolajiayodeji.com/feed";
+const newsletterFeedUrl = "https://letters.bolajiayodeji.com/feed";
 
 const ossProjectRepos = [
   "inspireNuggets",
@@ -24,7 +24,7 @@ const ossLearningMaterialRepos = ["deploy-ml-web-workshop", "cl-composable-comme
 const githubUsername = "BolajiAyodeji";
 const websiteUrl = "https://bolajiayodeji.com";
 const blogUrl = "https://blog.bolajiayodeji.com";
-const newsletterUrl = "https://bawd.bolajiayodeji.com";
+const newsletterUrl = "https://letters.bolajiayodeji.com";
 const youtubeUrl = "https://youtube.com/c/bolajiayodeji";
 const slidesUrl = "https://slides.com/bolajiayodeji";
 const twitterUrl = "https://x.com/iambolajiayo";
@@ -97,7 +97,7 @@ async function generateMarkdown() {
   <details>\n
   <summary>Quick Tips</summary>\n\n
   - 💬 How to reach me: DM [@iambolajiayo](https://x.com/iambolajiayo) on X (Twitter).\n
-  - 📬 Where to find me: Subscribe to my [newsletter](https://bawd.bolajiayodeji.com/subscribe) to hear from me bi-weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).\n
+  - 📬 Where to find me: Subscribe to my [newsletter](https://letters.bolajiayodeji.com/subscribe) to hear from me bi-weekly or send a game request on [chess.com](https://chess.com/member/bolajiayodeji).\n
   - 📖 Book recommendations: [Knowing God by J. I. Packer](https://bit.ly/3EdCFUW) and [Atomic Habits by James Clear](https://bit.ly/45r1kBH).\n
   - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://biblegateway.com/passage/?search=1+Timothy+1%3A15-17&version=ESV). Check [this](https://bit.ly/3KYYHij) out :).\n
   </details>\n
