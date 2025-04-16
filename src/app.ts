@@ -85,7 +85,7 @@ async function generateMarkdown() {
   <details>\n
   <summary>Recent Blogposts</summary>\n
   <br />
-  ${await fetchRssData(blogFeedUrl)}\n
+  TBA
   </details>\n
   
   <details>\n
@@ -114,7 +114,7 @@ async function generateMarkdown() {
 
   fs.writeFile("README.md", result, (error) => {
     if (error) throw new Error(`Something went wrong: ${error}.`);
-    console.log(`✅ README.md file was succesfully generated.`);
+    console.log(`✅ README.md file was successfully generated.`);
   });
 }
 
