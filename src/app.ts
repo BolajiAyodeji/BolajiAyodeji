@@ -53,7 +53,7 @@ async function generateMarkdown() {
   
   ---\n
   
-  Hi there 👋🏾! I'm a Software Engineer, Teacher, and Developer Advocate working to support the growth of open source technologies and <a href="https://digitalpublicgoods.net/digital-public-goods?ref=bolajiayodeji" target="_blank" rel="noopener noreferrer">digital public goods</a>. I'm an innovative technology professional with progressive IT, web engineering, data, embedded systems, developer relations, technical documentation/writing, open-source, and community/programs management experience in for-profit startups and non-profit technology and education organizations. I have spent the past years writing code for stuff that runs on the web, educating developers, helping different dev-tool startups connect and sustain profitable relationships with their ideal developer and customer profiles, and building open-source/developer communities. Nice to e-meet you :)!\n
+  Hi there 👋🏾! I'm a Software Engineer, Teacher, and Developer Advocate working to support the growth of open source technologies and <a href="https://digitalpublicgoods.net/digital-public-goods?ref=bolajiayodeji" target="_blank" rel="noopener noreferrer">digital public goods</a>. I'm an innovative digital transformation professional with progressive IT, web engineering, data, embedded systems, developer relations, technical documentation/writing, open source, and community/programs management experience in for-profit startups and non-profit technology and education organizations. I have spent the past years writing code for stuff that runs on the web, educating developers, helping different dev-tool startups connect and sustain profitable relationships with their ideal developer and customer profiles, and building open-source/developer communities. Nice to e-meet you :)!\n
   
   ---\n
 
@@ -108,7 +108,7 @@ async function generateMarkdown() {
   ---\n
    
   <div align="center">\n
-  <a href="https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile">→ Learn how this works.</a>
+  <a href="https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile">→ Learn how this works ←</a>
 
    <a href="https://bolajiayodeji.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BolajiAyodeji/bolajiayodeji.com/blob/main/public/favicon.png?raw=true" width="30" /></a>\n
   </div>`;
