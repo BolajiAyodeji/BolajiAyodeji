@@ -85,7 +85,14 @@ async function generateMarkdown() {
   <details>\n
   <summary>Recent Blogposts</summary>\n
   <br />
-  ${await fetchRssData(blogFeedUrl)}\n
+    <details>
+  <summary>Recent Blogposts</summary>
+  <br />
+  <ul>
+    <li><a href=https://blog.bolajiayodeji.com/career-update-joining-the-digital-public-goods-alliance?utm_source=github-profile target="_blank" rel="noopener noreferrer">Career Update: Joining the Digital Public Goods Alliance</a> (18/10/2024).</li><li><a href=https://blog.bolajiayodeji.com/how-to-build-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Build Design Editing Apps using Nextjs, Clerk, and IMGLY’s CE.SDK Engine</a> (11/9/2024).</li><li><a href=https://blog.bolajiayodeji.com/how-to-build-an-audio-chatbot-with-nextjs-openai-and-elevenlabs?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Build an Audio Chatbot with Nextjs, OpenAI, and ElevenLabs</a> (18/3/2024).</li><li><a href=https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Create an Automated Profile README using Nodejs and GitHub Actions</a> (4/12/2023).</li><li><a href=https://blog.bolajiayodeji.com/my-developer-advocate-portfolio?utm_source=github-profile target="_blank" rel="noopener noreferrer">My Developer Advocate Portfolio</a> (28/8/2023).</li>
+  </ul>
+<p>Read more blog posts: <a href="https://blog.bolajiayodeji.com">https://blog.bolajiayodeji.com</a>.</p>
+  </details>
   </details>\n
   
   <details>\n
