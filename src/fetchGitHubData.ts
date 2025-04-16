@@ -5,7 +5,7 @@ export async function fetchGitHubData(repos: Array<string>): Promise<string> {
     repos.map(async (repo) => {
       const response = await fetch(`https://api.github.com/repos/${owner}/${repo}`);
       if (!response.ok) {
-        throw new Error(`"${owner}/${repo}" not found. Kindy review your list of repositories.`);
+        throw new Error(`"${owner}/${repo}" not found. Kindly review your list of repositories.`);
       }
       const data = await response.json();
 

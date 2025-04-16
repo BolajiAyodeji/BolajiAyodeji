@@ -26,7 +26,7 @@ export async function fetchRssData(url: string): Promise<string> {
   ${
     url.endsWith("rss.xml")
       ? `Read more blog posts: ${url.replace(/\/rss.xml$/, "")}`
-      : `Read more newsletter issues: ${url.replace(/\/feed$/, "")}`
+      : `Read more news letters: ${url.replace(/\/feed$/, "")}`
   }.
   `;
 }
