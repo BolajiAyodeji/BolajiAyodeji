@@ -8,6 +8,7 @@ const parser = new Parser({
   }
 });
 
+console.log("Fetching RSS data...");
 export async function fetchRssData(url: string): Promise<string> {
   const feed = await parser.parseURL(url);
 
