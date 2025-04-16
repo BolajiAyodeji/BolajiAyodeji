@@ -1,15 +1,28 @@
-import Parser from "rss-parser";
-const parser = new Parser({
-  headers: {
-     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36"
-  }
-});
+// import Parser from "rss-parser";
+// const parser = new Parser();
+
+import { Feed, FeedItem } from "./types/feed";
 
 export async function fetchRssData(url: string): Promise<string> {
-  const feed = await parser.parseURL(url);
+  // const feed = await parser.parseURL(url);
 
-  const list = feed.items.slice(0, 5).map((item) => {
-    const date = new Date(item.pubDate as string);
+  let feed: any = {};
+  console.log(encodeURIComponent(url));
+
+  try {
+    const feedUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
+    const response = await fetch(feedUrl);
+    if (!response.ok) {
+      throw new Error(`Something went wrong: ${response.status}`);
+    }
+    feed = await response.json();
+  } catch (error) {
+    console.error("Error fetching RSS feed:", error);
+    return "Error fetching RSS feed.";
+  }
+
+  const list = (feed as Feed).items.slice(0, 5).map((item: FeedItem) => {
+    const date = new Date(item.pubDate);
     const publishedDate = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
 
     return `<li><a href=${item.link}?utm_source=github-profile target="_blank" rel="noopener noreferrer">${item.title}</a> (${publishedDate}).</li>`;
@@ -22,7 +35,7 @@ export async function fetchRssData(url: string): Promise<string> {
   ${
     url.endsWith("rss.xml")
       ? `Read more blog posts: ${url.replace(/\/rss.xml$/, "")}`
-      : `Read more newsletter issues: ${url.replace(/\/feed$/, "")}`
+      : `Read more news letters: ${url.replace(/\/feed$/, "")}`
   }.
   `;
 }
