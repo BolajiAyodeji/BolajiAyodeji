@@ -31,17 +31,18 @@
   <details>
   <summary>Recent Blogposts</summary>
   <br />
-  <p>Unable to fetch recent posts at the moment. Please try again later.</p>
+  <ul>
+    <li><a href=https://blog.bolajiayodeji.com/career-update-joining-the-digital-public-goods-alliance?utm_source=github-profile target="_blank" rel="noopener noreferrer">Career Update: Joining the Digital Public Goods Alliance</a> (18/10/2024).</li><li><a href=https://blog.bolajiayodeji.com/how-to-build-design-editing-apps-using-nextjs-clerk-and-imglys-cesdk-engine?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Build Design Editing Apps using Nextjs, Clerk, and IMGLY’s CE.SDK Engine</a> (11/9/2024).</li><li><a href=https://blog.bolajiayodeji.com/how-to-build-an-audio-chatbot-with-nextjs-openai-and-elevenlabs?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Build an Audio Chatbot with Nextjs, OpenAI, and ElevenLabs</a> (18/3/2024).</li><li><a href=https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions?utm_source=github-profile target="_blank" rel="noopener noreferrer">How to Create an Automated Profile README using Nodejs and GitHub Actions</a> (4/12/2023).</li><li><a href=https://blog.bolajiayodeji.com/my-developer-advocate-portfolio?utm_source=github-profile target="_blank" rel="noopener noreferrer">My Developer Advocate Portfolio</a> (28/8/2023).</li>
+  </ul>
+<p>Read more blog posts: <a href="https://blog.bolajiayodeji.com">https://blog.bolajiayodeji.com</a>.</p>
   </details>
   <details>
   <summary>Recent Newsletters</summary>
   <br />
-<pre><code>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=https://letters.bolajiayodeji.com/p/bawd-124-jack-of-all-trades-often?utm_source=github-profile target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[BAWD #124] Jack of All Trades, Often Better Than Master of One&lt;/a&gt; (7/10/2024).&lt;/li&gt;&lt;li&gt;&lt;a href=https://letters.bolajiayodeji.com/p/bawd-123-make-use-of-everything-you?utm_source=github-profile target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[BAWD #123] Make Use of Everything You Know&lt;/a&gt; (24/6/2024).&lt;/li&gt;&lt;li&gt;&lt;a href=https://letters.bolajiayodeji.com/p/bawd-122-fear-makes-you-a-worse-programmer?utm_source=github-profile target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[BAWD #122] Fear Makes You a Worse Programmer&lt;/a&gt; (6/5/2024).&lt;/li&gt;&lt;li&gt;&lt;a href=https://letters.bolajiayodeji.com/p/bawd-121-lessons-from-7-years-of?utm_source=github-profile target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[BAWD #121] Lessons from 7+ Years of Indie Hacking&lt;/a&gt; (19/3/2024).&lt;/li&gt;&lt;li&gt;&lt;a href=https://letters.bolajiayodeji.com/p/bawd-120-react-server-components?utm_source=github-profile target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;[BAWD #120] React Server Components and OSS Fellowship&lt;/a&gt; (20/2/2024).&lt;/li&gt;
-&lt;/ul&gt;
-
-Read more newsletter issues: https://letters.bolajiayodeji.com.
-</code></pre>
+  <ul>
+    <li><a href=https://letters.bolajiayodeji.com/p/bawd-124-jack-of-all-trades-often?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #124] Jack of All Trades, Often Better Than Master of One</a> (7/10/2024).</li><li><a href=https://letters.bolajiayodeji.com/p/bawd-123-make-use-of-everything-you?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #123] Make Use of Everything You Know</a> (24/6/2024).</li><li><a href=https://letters.bolajiayodeji.com/p/bawd-122-fear-makes-you-a-worse-programmer?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #122] Fear Makes You a Worse Programmer</a> (6/5/2024).</li><li><a href=https://letters.bolajiayodeji.com/p/bawd-121-lessons-from-7-years-of?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #121] Lessons from 7+ Years of Indie Hacking</a> (19/3/2024).</li><li><a href=https://letters.bolajiayodeji.com/p/bawd-120-react-server-components?utm_source=github-profile target="_blank" rel="noopener noreferrer">[BAWD #120] React Server Components and OSS Fellowship</a> (20/2/2024).</li>
+  </ul>
+<p>Read more newsletter issues: <a href="https://letters.bolajiayodeji.com">https://letters.bolajiayodeji.com</a>.</p>
   </details>
   <details>
   <summary>Quick Tips</summary>
