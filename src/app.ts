@@ -85,7 +85,7 @@ async function generateMarkdown() {
   <details>\n
   <summary>Recent Blogposts</summary>\n
   <br />
-  TBA
+  ${await fetchRssData(blogFeedUrl)}\n
   </details>\n
   
   <details>\n
